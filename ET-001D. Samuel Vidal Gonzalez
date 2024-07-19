@@ -54,7 +54,7 @@ def generar_reporte_sueldos():
         print(f"{trabajador}\t${sueldo_base}\t\t${descuento_salud:.2f}\t\t${descuento_afp:.2f}\t\t${sueldo_liquido:.2f}")
 
 def salir_del_programa():
-    print("\nGracias por utilizar el programa. Creado por Samuel Vidal Gonzalez Rut: 21.701.205-8")
+    print("\nFinalizando el programa. Creado por Samuel Vidal Gonzalez Rut: 21.701.205-8")
 
 # Función principal para ejecutar el menú
 def main():
